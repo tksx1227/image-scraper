@@ -26,5 +26,5 @@ driver = webdriver.Chrome("./chromedriver", options=options)  # WebDriverのパ�
 3. scraper.py を実行する。
 
 ```Shell
-$ python ./scraper
+$ python ./scraper.py
 ```
