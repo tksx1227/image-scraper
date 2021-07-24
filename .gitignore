@@ -138,6 +138,6 @@ dmypy.json
 cython_debug/
 
 # Custom
-./images/
-./chromedriver.exe
-./scraper_1.py
+images/
+chromedriver.exe
+scraper_1.py
